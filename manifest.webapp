@@ -1,0 +1,13 @@
+{
+  "name": "Snapshot",
+  "description": "Camera and gallery viewer",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/images/icon-128.png"
+  },
+  "developer": {
+    "name": "Chris Mills",
+    "url": "http://www.conquestofsteel.co.uk"
+  },
+  "default_locale": "en"
+}
